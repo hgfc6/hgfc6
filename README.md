@@ -1,3 +1,5 @@
+<img src="./请坐.jpg" alt="请坐" style="zoom:50%;" />
+
 # 🌟 Hey there! I'm [Your Name]
 👋 A passionate coder on an unending journey of discovery in the tech universe.
 
