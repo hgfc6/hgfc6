@@ -18,5 +18,5 @@
 | HTML/CSS   | Elasticsearch | Mybatis   | go-zero  |            |         |
 | JavaScript | PostgreSQL    | Tomcat    | Vue      |            |         |
 | SQL        | SQLite        | Zookeeper | React    |            |         |
-| Rust       | influxdb      |           | Django   |            |         |
-|            | Etcd          |           |          |            |         |
+| Rust       | influxdb      |           | Flask    |            |         |
+|            | Etcd          |           | Django   |            |         |
