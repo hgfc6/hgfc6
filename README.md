@@ -10,14 +10,15 @@
 - 📫 想要联系我？您可以通过 `cjh789987@163.com` 与我联系。无论是岗位需求、项目创意、技术问题，还是只是打个招呼，我都会及时回复！
 
 ## 技能展示
+
 <table style="width:100%; border-collapse: collapse; margin: 20px 0;">
     <tr style="background-color: dimgray; font-weight: bold;">
-        <th style="border: 1px solid #ddd; padding: 8px;">语言</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">数据库</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">中间件</th>
-        <th style="border: 1px solid #ddd; padding: 8px;" colspan="2">框架</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">工具</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">其他</th>
+        <th style="border: 3px solid #ddd; padding: 8px; width: 10%">语言</th>
+        <th style="border: 3px solid #ddd; padding: 8px; width: 10%">数据库</th>
+        <th style="border: 3px solid #ddd; padding: 8px; width: 10%">中间件</th>
+        <th style="border: 3px solid #ddd; padding: 8px; width: 20%" colspan="2">框架</th>
+        <th style="border: 3px solid #ddd; padding: 8px; width: 10%">工具</th>
+        <th style="border: 3px solid #ddd; padding: 8px; width: 10%">其他</th>
     </tr>
     <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">Java</td>
